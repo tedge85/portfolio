@@ -1,0 +1,56 @@
+#angular {
+    margin-top: .6rem;
+}
+
+#bootstrap {
+    margin-top: 5rem;
+}
+
+.container-fluid {
+    background: rgb(236, 217, 198);
+    padding: 4rem 2rem;
+    margin-bottom: 0;
+}
+
+#HTML-CSS-JS {
+    margin-top: 8.7rem;
+}
+
+#sql {
+    margin-top: 11rem;    
+}
+
+#typescript {
+    margin-top: 1.6rem;
+}
+
+@media screen and (min-width: 600px) {
+    .container-fluid {
+       width: 40%;
+     }
+     #angular {
+        margin-top: .6rem;
+    }
+     #HTML-CSS-JS {
+        margin-top: 8rem;
+    }
+    #sql {
+        margin-top: 10.4rem;    
+    }
+   }
+
+   @media screen and (max-width: 600px) {
+    .container-fluid {
+        margin-top: 6rem;
+    }
+
+     #angular {
+        margin-top: .6rem;
+    }
+     #HTML-CSS-JS {
+        margin-top: 8rem;
+    }
+    #sql {
+        margin-top: 10.4rem;    
+    }
+   }

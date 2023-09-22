@@ -1,0 +1,17 @@
+.container-fluid {
+    width: 100%;
+    margin: 0;
+}
+
+.navbar {
+    position: sticky;
+    width: 100%;
+    margin: 0;
+}
+
+.navbar-nav {
+    margin-left: 39%;
+    margin-right: 0;
+    position: sticky;
+    width: 100%;
+}

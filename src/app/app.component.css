@@ -1,0 +1,28 @@
+body {
+  background: rgb(236, 217, 198);
+  height: 100%;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  height: 100%;
+  width: 100%;
+  font-family: sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+.container-fluid {
+  min-height: 100%;
+  margin: 0;
+  width: 100%;
+  position: relative;
+}
+
+.footer {
+  position: relative;
+  bottom: 1%;
+  left: .5rem;
+}

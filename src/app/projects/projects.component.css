@@ -1,0 +1,149 @@
+a {
+    text-decoration: none;
+}
+
+.carousel-caption {
+    color: black;
+}
+
+.container-fluid {
+    background: rgb(236, 217, 198);
+    padding: 4rem 2rem;
+}
+
+p {
+    font-size: .8rem;
+  }
+
+#pop-up_img {
+    margin-bottom: 13rem;
+}
+
+#showMePic {
+    margin-bottom: 11rem;
+  }
+
+   @media screen and (min-width: 1200px) {
+    
+    .container-fluid {
+        width: 50%;
+        margin-top: 1%;
+      }
+      
+      p {
+        font-size: 1rem;
+      }
+
+    #pop-up_img {
+        margin-top: 0px;
+        margin-bottom: 11.5rem;
+      }
+    
+    #showMePic {
+        margin-top: 0px;
+        margin-bottom: 10rem;
+      }
+    
+      #website_img {
+        border: solid;
+        border-color: black;
+        margin-top: 0px;
+        margin-bottom: 10rem;
+      }
+  }
+
+  @media screen and (min-width: 1000px) and (max-width: 1200px) {
+    
+    .container-fluid {
+        width: 50%;
+        margin-top: .1rem;
+      }
+      
+      p {
+        font-size: .8rem;
+      }
+
+    #pop-up_img {
+        margin-bottom: 13rem;
+      }
+    
+    #showMePic {
+        margin-bottom: 10rem;
+      }
+    
+      #website_img {
+        border: solid;
+        border-color: black;
+        margin-bottom: 10rem;
+      }
+  }
+
+  @media screen and (min-width: 800px) and (max-width: 1000px) {
+    
+    .container-fluid {
+        width: 50%;
+        margin-top: .2rem;
+      }
+      
+      p {
+        font-size: .8rem;
+      }
+
+    #pop-up_img {
+        margin-bottom: 15rem;
+      }
+    
+    #showMePic {
+        margin-bottom:12rem;
+      }
+
+    #website_img {
+        border: solid;
+        border-color: black;
+        margin-bottom: 10rem;
+    }
+  }
+
+
+  @media screen and (min-width: 550px) and (max-width: 800px) {
+    
+    .container-fluid {
+        width: 50%;
+        margin-top: .2rem;
+      }
+
+    #pop-up_img {
+        margin-bottom: 18rem;
+      }
+    
+    #showMePic {
+        margin-bottom: 13rem;
+      }
+
+    #website_img {
+        border: solid;
+        border-color: black;
+        margin-bottom: 10rem;
+    }
+  }
+
+
+  @media screen and (min-width: 200px) and (max-width: 550px) {
+    .container-fluid {
+        margin-top: 6rem;
+      }
+
+    #pop-up_img {
+        margin-bottom: 14rem;
+      }
+    
+      #showMePic {
+        margin-bottom: 12rem;
+      }
+
+      #website_img {
+        border: solid;
+        border-color: black;
+        margin-bottom: 10rem;
+      }
+  }
