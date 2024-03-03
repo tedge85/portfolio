@@ -10,9 +10,13 @@ a {
     padding: 4rem 2rem;
 }
 
+#email_viewer_img {
+  margin-bottom: 11rem;
+}
+
 p {
-    font-size: .8rem;
-  }
+  font-size: .8rem;
+}
 
 #pop-up_img {
     margin-bottom: 13rem;
@@ -22,9 +26,16 @@ p {
     margin-bottom: 11rem;
   }
 
-   @media screen and (min-width: 1200px) {
-    
-    .container-fluid {
+#surfshop_img {
+  margin-bottom: 9rem;
+}
+
+#task_manager_img {
+  margin-bottom: 11rem;
+}
+
+@media screen and (min-width: 1200px) {
+  .container-fluid {
         width: 50%;
         margin-top: 1%;
       }
