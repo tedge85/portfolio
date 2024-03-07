@@ -18,8 +18,12 @@ p {
   font-size: .8rem;
 }
 
+#PUMU_p {
+  font-size: .79rem
+}
+
 #pop-up_img {
-    margin-bottom: 13rem;
+  margin-bottom: 13rem;
 }
 
 #showMePic {
