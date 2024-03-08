@@ -151,11 +151,15 @@ p {
         margin-bottom: 14rem;
       }
     
-      #showMePic {
+    #showMePic {
         margin-bottom: 12rem;
       }
 
-      #website_img {
+    #task_manager_img {
+      margin-bottom: 12rem;
+    }
+
+    #website_img {
         border: solid;
         border-color: black;
         margin-bottom: 10rem;
